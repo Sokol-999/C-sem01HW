@@ -1,0 +1,15 @@
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\ex2.csproj.AssemblyReference.cache
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\ex2.AssemblyInfoInputs.cache
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\ex2.AssemblyInfo.cs
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\ex2.csproj.CoreCompileInputs.cache
+D:\ГИТ\C#  ДЗ\ex2\bin\Debug\net6.0\ex2.exe
+D:\ГИТ\C#  ДЗ\ex2\bin\Debug\net6.0\ex2.deps.json
+D:\ГИТ\C#  ДЗ\ex2\bin\Debug\net6.0\ex2.runtimeconfig.json
+D:\ГИТ\C#  ДЗ\ex2\bin\Debug\net6.0\ex2.dll
+D:\ГИТ\C#  ДЗ\ex2\bin\Debug\net6.0\ex2.pdb
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\ex2.dll
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\refint\ex2.dll
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\ex2.pdb
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\ex2.genruntimeconfig.cache
+D:\ГИТ\C#  ДЗ\ex2\obj\Debug\net6.0\ref\ex2.dll
