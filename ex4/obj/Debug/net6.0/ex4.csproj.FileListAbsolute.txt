@@ -1,0 +1,15 @@
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\ex4.csproj.AssemblyReference.cache
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\ex4.AssemblyInfoInputs.cache
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\ex4.AssemblyInfo.cs
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\ex4.csproj.CoreCompileInputs.cache
+D:\ГИТ\C#  ДЗ\ex4\bin\Debug\net6.0\ex4.exe
+D:\ГИТ\C#  ДЗ\ex4\bin\Debug\net6.0\ex4.deps.json
+D:\ГИТ\C#  ДЗ\ex4\bin\Debug\net6.0\ex4.runtimeconfig.json
+D:\ГИТ\C#  ДЗ\ex4\bin\Debug\net6.0\ex4.dll
+D:\ГИТ\C#  ДЗ\ex4\bin\Debug\net6.0\ex4.pdb
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\ex4.dll
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\refint\ex4.dll
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\ex4.pdb
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\ex4.genruntimeconfig.cache
+D:\ГИТ\C#  ДЗ\ex4\obj\Debug\net6.0\ref\ex4.dll
